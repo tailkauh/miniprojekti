@@ -1,2 +1,2 @@
 # miniprojekti
-Ohjelmistotuotanto syksy 2024 miniprojekti
+Ohjelmistotuotanto-kurssi syksy 2024 miniprojekti
